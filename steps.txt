@@ -1,0 +1,10 @@
+create build folder 
+create index.html and write HELLO world in boiler plate
+back tp main folder
+create app.js .gitignore 
+#npm init -y in terminal
+#npm i expess in terminal 
+go to app.js paste below code
+add type module in pakage.json
+add start in script tag, nodemon app.js
+
